@@ -9,6 +9,7 @@
 //    e.g. https://www.sunshine2k.de/coding/javascript/crc/crc_js.html
 
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
